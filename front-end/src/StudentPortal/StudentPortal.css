@@ -1,0 +1,52 @@
+  .sidebar-header{
+    min-height: 100vh;
+    width: 20%;
+  }
+  
+  .title{
+    color: #ffffff;
+    align-items: center;
+  }
+  
+  
+  
+  .csc-header{
+    background-color: #444791;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-transform: capitalize;
+    color:#ffffff;
+  }
+  
+  .section-bar{
+    background-color: #F5F5F5;
+    box-shadow: 0 8px 5px -5px #E2E2E2;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #242424;
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .row-padding{
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  
+  .btn-primary{
+    background-color: #5B5FC7 ;
+  }
+  
+  .bi-plus{
+    color: #ADAFE3;
+    font-size: 25px;
+  }
+
+  .list{
+    width: 100%;
+  }

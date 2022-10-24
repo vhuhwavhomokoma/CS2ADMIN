@@ -1,0 +1,24 @@
+.red-zone{
+    color: red;
+}
+
+.orange-zone{
+    color: orange;
+}
+
+.green-zone{
+    color: green;
+}
+
+.msg{
+   font-size: small; 
+   font-style: italic;
+}
+
+.dp-message{
+    padding-bottom: 5px;
+}
+
+.dp-status{
+    font-size: x-small;
+}

@@ -1,0 +1,19 @@
+.request-table{
+    background-color: #d0d2df;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.status-link-modal{
+    color:blue;
+    text-decoration: underline;
+}
+
+.status-link-modal:hover{
+    color: rgb(152, 152, 224);
+}
+
+
+.pt-4{
+    margin-top: 20px;
+}

@@ -1,0 +1,16 @@
+.error-msg{
+    color: red;
+}
+
+.login-form-modal{
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.username{
+    padding-bottom: 10px;
+}
+
+.password{
+    padding-bottom: 10px;
+}

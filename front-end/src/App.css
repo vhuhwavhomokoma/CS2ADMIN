@@ -1,0 +1,12 @@
+.container-fluid {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.app{
+  min-height: 100vh;
+}
+
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
